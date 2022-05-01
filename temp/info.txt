@@ -1,0 +1,6 @@
+Tecnologias:
+
+React
+Tailwind CSS
+Vite
+LocalStorage
