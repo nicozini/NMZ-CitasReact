@@ -1,2 +1,2 @@
 - Administrador de pacientes de veterinaria
-- Tecnologías: Vite, Tailwind CSS, LocalStorage
+- Tecnologías: React, Vite, Tailwind CSS, LocalStorage
